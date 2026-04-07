@@ -1,0 +1,62 @@
+{
+  "marketplaces": [
+    {
+      "source": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "metadata": {
+        "name": "marketingskills",
+        "owner": {
+          "name": "Corey Haines",
+          "url": "https://corey.co"
+        },
+        "description": "Marketing skills for AI agents — conversion optimization, copywriting, SEO, paid ads, and growth",
+        "version": "1.0.0",
+        "repository": "https://github.com/coreyhaines31/marketingskills"
+      }
+    }
+  ],
+  "installed": [
+    {
+      "name": "marketing-skills",
+      "source": "coreyhaines31/marketingskills",
+      "description": "35 marketing skills for technical marketers and founders: CRO, copywriting, cold email, SEO, AI SEO, paid ads, ad creative, churn prevention, pricing strategy, referral programs, revenue operations, sales enablement, customer research, site architecture, and more",
+      "skills": [
+        "ab-test-setup",
+        "ad-creative",
+        "ai-seo",
+        "analytics-tracking",
+        "churn-prevention",
+        "cold-email",
+        "community-marketing",
+        "competitor-alternatives",
+        "content-strategy",
+        "copy-editing",
+        "copywriting",
+        "customer-research",
+        "email-sequence",
+        "form-cro",
+        "free-tool-strategy",
+        "launch-strategy",
+        "lead-magnets",
+        "marketing-ideas",
+        "marketing-psychology",
+        "onboarding-cro",
+        "page-cro",
+        "paid-ads",
+        "paywall-upgrade-cro",
+        "popup-cro",
+        "pricing-strategy",
+        "product-marketing-context",
+        "programmatic-seo",
+        "referral-program",
+        "revops",
+        "sales-enablement",
+        "schema-markup",
+        "seo-audit",
+        "signup-flow-cro",
+        "site-architecture",
+        "social-content"
+      ]
+    }
+  ]
+}
